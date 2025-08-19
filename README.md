@@ -1,3 +1,6 @@
+this is the data i used in this projetc
+https://www.kaggle.com/code/arif124713/face-expression-recognition
+
 Emotion Recognition Model for Confidence Assessment
 
 This project is an AI-based system that detects facial expressions and classifies them into Confidence and No-Confidence.
